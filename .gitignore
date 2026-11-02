@@ -1,0 +1,4 @@
+downloads/
+.venv/
+.qa/
+__pycache__/
